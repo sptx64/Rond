@@ -31,7 +31,7 @@ with open(fpath, "wb") as f :
     pickle.dump(dict_rond, f)
 
 f"## Hello {name}"
-st.image("rond/rond.jpeg")
+st.image("Screenshot_20251031-125958.png")
 
 "## Scores"
 df = pd.DataFrame({
